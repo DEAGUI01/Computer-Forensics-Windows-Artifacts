@@ -121,8 +121,7 @@ Target Modified
 <h3>Parse and Analyze Jump Lists</h3>
 <p align="center">
 
-Parse the Jump Lists located in the “Recent\AutomaticDestinations” folder using JLEmd and
-answer the following questions:
+Parse the Jump Lists located in the “Recent\AutomaticDestinations” folder using JLEmd
 <img src="https://i.imgur.com/8XI3X1M.png" height="80%" width="80%" alt="Investigate FAT32"/>
 <br />
 <br />
